@@ -1,0 +1,1 @@
+{"name":"rehearsal-planner-server","version":"1.0.0","private":true,"dependencies":{"express":"^4.18.0","pg":"^8.7.0","jsonwebtoken":"^9.0.0","dotenv":"^16.0.0","nodemailer":"^6.9.0","cors":"^2.8.5"},"scripts":{"start":"node index.js","migrate":"node migrate.js"}}
